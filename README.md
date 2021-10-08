@@ -98,7 +98,20 @@ Up-to-date repository with useful curated deep learning resources for everyone -
     "Correlation is not causation". Judea Pearl gives a historical perspective and argues about the importance of causation in science and artificial intelligent systems and how we can derive it.
 
 ## Community 🤗
-- [Weights & Biases Forum] (https://wandb.ai/site/ml-community) `[community 👥]`
+- [Deep Learning Sessions Lisboa](https://www.meetup.com/pt-BR/Deep-Learning-Sessions-Lisboa) `[community 👥]`
+     
+     Hey, that's us! 👋🏼 We host meetups where deep learning practitioners can share their experiences, as well as reading groups, where we can all discuss and stay up-to-date with the most recent developments in deep learning.
+     
+- [Data Science Portugal](https://www.datascienceportugal.com) `[community 👥]`
+
+     This community organizes meetups on Data Science and they have an open Slack domain that you can join to stay up-to-date with the latest events in Data Science, job offerings and also meet fellow data scientists. 
+     
+- [Seminar in Mathematics, Physics & Machine Learning by IST](https://mpml.tecnico.ulisboa.pt) `[seminars 🎓]`
+
+     Advanced lectures on Machine Learning that you can watch online organized by professors of Instituto Superior Técnico.
+     
+
+- [Weights & Biases Forum](https://wandb.ai/site/ml-community) `[community 👥]`
 
     Community of ML practitioners where you can showcase your work, share ideas, and find collaborators.
     
