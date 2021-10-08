@@ -1,12 +1,25 @@
 # Deep Learning Resources
 Up-to-date repository with useful curated deep learning resources for everyone - from beginner to expert! Feel free to contribute with suggestions!
 
+These resources are organized as follows:
+
+1. [Getting Started in Machine Learning 👶](#getting_started_in_ml)
+2. [Getting Started in Deep Learning 💫](#getting_started_in_dl)
+3. [Intermediate/Advanced Deep Learning 🤓](#adv_dl)
+4. [Reinforcement Learning 🤖](#rl)
+5. [MLOps ⚙️](#mlops)
+6. [Keep up-to-date ⏰](#update)
+7. [Non-Technical Books 🏖](#books)
+8. [Community 🤗](#community)
+
+<a name="getting_started_in_ml"></a>
 ## Getting Started in Machine Learning 👶
 
 - [Machine Learning Specialization](https://www.coursera.org/learn/machine-learning) in Coursera from Stanford `[online course 👩🏻‍💻]`
 
      In this specialization, Andrew Ng gives a thorough explanation of supervised and unsupervised machine learning algorithms, ranging from linear regression to neural networks and clustering algorithms, perfectly balancing theory with intuition. With this course, you'll gain a strong foundation on machine learning and learn a lot of tips & tricks for applying machine learning in the real world.
 
+<a name="getting_started_in_dl"></a>
 ## Getting Started in Deep Learning 💫
 - [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) in Coursera from deeplearning.ai `[online course 👩🏻‍💻]`
   
@@ -26,6 +39,7 @@ Up-to-date repository with useful curated deep learning resources for everyone -
 
     EpyNN is a production-ready but first Educational python resource for Neural Networks. EpyNN is designed for Supervised Machine Learning (SML) approaches by means of Neural Networks.
     
+<a name="adv_dl"></a>
 ## Intermediate/Advanced Deep Learning 🤓
 - [Deep Learning book](https://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio and Aaron Courville (2016) `[book 📚]`
 
@@ -35,7 +49,8 @@ Up-to-date repository with useful curated deep learning resources for everyone -
     
     Another great resource from deeplearning.ai for those interested in understanding how GANs work and how you can apply them. Also, you can check the expert panel discussion [GANs for Good](https://youtu.be/9d4jmPmTWmc) hosted in celebration of the launch of this specialization.
     
-    
+
+<a name="rl"></a>
 ## Reinforcement Learning 🤖
 
 - [Reinforcement Learning](https://www.coursera.org/specializations/reinforcement-learning) in Coursera from University of Alberta `[online course 👩🏻‍💻]`
@@ -47,6 +62,7 @@ Up-to-date repository with useful curated deep learning resources for everyone -
     In 13 lectures, DeepMind Researchers go from the basics of RL and planning in sequential decision problems to more advanced topics and modern deep RL algorithms.
     
     
+<a name="mlops"></a>
 ## MLOps ⚙️
 - [Machine Learning Engineering for Production](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops) in Coursera by deeplearning.ai `[online course 👩🏻‍💻]`
 
@@ -57,6 +73,7 @@ Up-to-date repository with useful curated deep learning resources for everyone -
     16 weeks course taught by Sergey Karayev, Josh Tobin, and Pieter Abbeel - all PhDs from UC Berkeley. It is assumed that you are already familiar with the basics of deep learning. The course focuses on the rest of the process of creating production deep learning systems, practical concerns you should have, and what tools you can use. 
     
     
+<a name="update"></a>
 ## Keep up-to-date ⏰
 - [Lex Fridman Podcast](https://lexfridman.com/podcast) `[podcast 🎧]` 
 
@@ -88,6 +105,7 @@ Up-to-date repository with useful curated deep learning resources for everyone -
      Curated articles, tutorials and blog posts from experienced Machine Learning professionals.
      
 
+<a name="books"></a>
 ## Non-Technical Books 🏖
 - [Genius Makers: The Mavericks Who Brought AI to Google, Facebook, and the World](https://www.amazon.com/Genius-Makers-Mavericks-Brought-Facebook/dp/1524742678) by Cade Metz (2021) `[book 📚]`
 
@@ -97,6 +115,8 @@ Up-to-date repository with useful curated deep learning resources for everyone -
 
     "Correlation is not causation". Judea Pearl gives a historical perspective and argues about the importance of causation in science and artificial intelligent systems and how we can derive it.
 
+
+<a name="community"></a>
 ## Community 🤗
 - [Deep Learning Sessions Lisboa](https://www.meetup.com/pt-BR/Deep-Learning-Sessions-Lisboa) `[community 👥]`
      
