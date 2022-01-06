@@ -40,6 +40,11 @@ These resources are organized as follows:
     EpyNN is a production-ready but first Educational python resource for Neural Networks. EpyNN is designed for Supervised Machine Learning (SML) approaches by means of Neural Networks.
     
 <a name="adv_dl"></a>
+
+- [Getting Started in Deep Learning Series](https://medium.com/deep-learning-sessions-lisboa) `[blog 📝]`
+
+     We wrote a mini-series of blogposts with intuitions and basic concepts in deep learning for those who want to get started in this area.
+
 ## Intermediate/Advanced Deep Learning 🤓
 - [Deep Learning book](https://www.deeplearningbook.org) by Ian Goodfellow, Yoshua Bengio and Aaron Courville (2016) `[book 📚]`
 
