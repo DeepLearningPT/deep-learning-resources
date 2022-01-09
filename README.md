@@ -135,6 +135,10 @@ These resources are organized as follows:
 
      Advanced lectures on Machine Learning that you can watch online organized by professors of Instituto Superior Técnico.
      
+- [IST & Unbabel Seminars](https://ist-unbabel-seminars.github.io/) `[seminars 🎓]`
+
+    The IST & Unbabel Seminars aim to provide, on a weekly basis, an outlet for discussion of research on Machine Learning and Natural Language Processing by researchers and students all over the world. They are hosted online at 6PM Lisbon Time on Mondays.
+     
 
 - [Weights & Biases Forum](https://wandb.ai/site/ml-community) `[community 👥]`
 
