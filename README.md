@@ -144,3 +144,7 @@ These resources are organized as follows:
 
     Community of ML practitioners where you can showcase your work, share ideas, and find collaborators.
     
+    
+- [MLOps Community](https://mlops.community/) `[community 👥]`
+
+    Community of real-world Machine Learning Operations best practices. You can connect to the community through their Slack, check their content on YouTube and Medium, and much more.
