@@ -66,6 +66,10 @@ These resources are organized as follows:
 
     In 13 lectures, DeepMind Researchers go from the basics of RL and planning in sequential decision problems to more advanced topics and modern deep RL algorithms.
     
+- [Reinforcement Learning: an Introduction](http://incompleteideas.net/book/the-book.html) book by Richard S. Sutton and Andrew G. Barto `[book 📚]`
+
+    This is *the* book of Reinforcement Learning, made freely available by the authors. It is used as the base for many RL courses, in particular, the Reinforcement Learning specialization in Coursera, mentioned above. 
+    
     
 <a name="mlops"></a>
 ## MLOps ⚙️
